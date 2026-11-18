@@ -80,36 +80,6 @@ A clue is a starting point, not a guarantee. Check constraints and prove why the
 
 ---
 
-## 14. Trees & Binary Trees
-
-**Core patterns:** DFS recursion, preorder/inorder/postorder, level-order BFS, BST properties, path tracking, lowest common ancestor, tree construction.
-
-
-| # | Problem | Level | Pattern |
-|---:|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | DFS / stack |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | DFS |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | DFS |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | BFS / queue |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | DFS |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Recursive DFS |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | DFS |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Mirror recursion |
-| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | DFS / height |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Bottom-up DFS |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | Root-to-leaf DFS |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | Backtracking |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | DFS / global answer |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Recursive DFS |
-| 235 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | BST property |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Range bounds |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Inorder |
-| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | BST recursion |
-| 105 | [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Divide and conquer |
-| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | BFS / DFS |
-
-**Tree revision checklist:** Know recursive DFS, iterative traversals, queue-based level order, height vs depth, BST min/max bounds, path sum, and LCA.
-
 ## 0. Programming Foundations & Time-Space Complexity
 
 Before starting problem patterns, build a strong base in problem-solving and algorithm analysis.
@@ -318,6 +288,35 @@ Review these Java tools before moving into data-structure patterns:
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Single use + duplicates |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Grid backtracking |
 
+## 14. Trees & Binary Trees
+
+**Core patterns:** DFS recursion, preorder/inorder/postorder, level-order BFS, BST properties, path tracking, lowest common ancestor, tree construction.
+
+| # | Problem | Level | Pattern |
+|---:|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | DFS / stack |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | DFS |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | DFS |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | BFS / queue |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | DFS |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Recursive DFS |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | DFS |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Mirror recursion |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | DFS / height |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Bottom-up DFS |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | Root-to-leaf DFS |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | Backtracking |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | DFS / global answer |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Recursive DFS |
+| 235 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | BST property |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Range bounds |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Inorder |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | BST recursion |
+| 105 | [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Divide and conquer |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | BFS / DFS |
+
+**Tree revision checklist:** Know recursive DFS, iterative traversals, queue-based level order, height vs depth, BST min/max bounds, path sum, and LCA.
+
 ## 15. Graphs
 
 | # | Problem | Level | Pattern |
@@ -394,56 +393,6 @@ Review these Java tools before moving into data-structure patterns:
 **Important:** LeetHub syncs accepted submissions to the repository. The curated question lists in this README are a static preparation guide; daily accepted solutions will appear as LeetHub-generated folders/files and commits. You do not need to mark which topics you have or have not studied in this README.
 
 **README safety:** Before enabling auto-sync, keep a copy of this guide. Some LeetHub versions create or update a root `README.md` progress table. If your extension overwrites or conflicts with this guide, restore this content and keep the curated guide as `PLACEMENT_GUIDE.md`, allowing LeetHub to manage its generated `README.md`.
-
-## Folder structure
-
-A clean target structure can look like this:
-
-```text
-java-dsa-placement-guide/
-├── README.md
-├── Trees/
-│   ├── tree-pattern-notes.md
-│   └── revision-checklist.md
-├── Arrays/
-├── Graphs/
-├── Dynamic-Programming/
-└── <LeetHub-generated problem folders>/
-    ├── solution.java
-    ├── question.md
-    └── notes.md
-```
-
-The exact names of LeetHub-generated files and folders depend on the extension version and its settings. Let LeetHub create its own folders rather than manually guessing their names.
-
-## Commit message convention
-
-Use short, meaningful commit messages. A good commit says **what changed**.
-
-| Situation | Commit message example |
-|---|---|
-| Add one solution | `feat(trees): add maximum depth solution` |
-| Add a topic batch | `feat(trees): add level order and diameter solutions` |
-| Improve an approach | `refactor(arrays): optimize two sum lookup` |
-| Add explanation | `docs(trees): add DFS and BFS pattern notes` |
-| Update progress | `docs(readme): update tree progress tracker` |
-| Fix a bug | `fix(graphs): handle visited nodes correctly` |
-| Add revision notes | `docs(dp): add 1D DP revision notes` |
-
-LeetHub may generate its own commit messages automatically. Keep those if they accurately describe the sync; use the convention above for your manual commits. Do not make empty or artificial commits just to increase the contribution count.
-
-## Solution quality checklist
-
-Before marking a problem complete, confirm:
-
-- [ ] I can explain the brute-force approach.
-- [ ] I can identify the optimized pattern.
-- [ ] I understand why the algorithm works.
-- [ ] I tested edge cases.
-- [ ] I know time and space complexity.
-- [ ] I can write the solution again without copying.
-- [ ] I added a short note about the key observation.
-- [ ] I scheduled a revision.
 
 ### Suggested note template
 
