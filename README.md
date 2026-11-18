@@ -425,3 +425,23 @@ Revision dates:
 This repository is a pattern-wise question guide intended to help students prepare for coding interviews. Add your own explanations and Java implementations. LeetCode problem statements belong to their respective owners; link to the original problems rather than republishing full statements in this guide.
 
 **Keep learning. Recognise patterns. Write clean Java. Revise consistently.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0145-binary-tree-postorder-traversal) |
+<!---LeetCode Topics End-->
