@@ -498,6 +498,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -545,6 +546,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,4 +565,16 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
