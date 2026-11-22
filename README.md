@@ -536,4 +536,20 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0701-insert-into-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
