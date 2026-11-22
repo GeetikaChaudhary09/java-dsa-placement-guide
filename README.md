@@ -593,10 +593,12 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
