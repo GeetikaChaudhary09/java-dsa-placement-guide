@@ -506,6 +506,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -589,4 +590,13 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
