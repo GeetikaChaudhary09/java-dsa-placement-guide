@@ -559,6 +559,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
@@ -591,6 +592,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
