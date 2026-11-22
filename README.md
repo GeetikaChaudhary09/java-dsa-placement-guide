@@ -498,6 +498,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -618,4 +619,8 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
