@@ -587,6 +587,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -598,6 +599,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
