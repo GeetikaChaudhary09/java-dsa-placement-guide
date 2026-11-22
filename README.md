@@ -507,6 +507,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+| [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -588,6 +589,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
+| [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -605,4 +607,8 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
