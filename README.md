@@ -542,6 +542,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
@@ -556,6 +557,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
@@ -583,4 +585,8 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
