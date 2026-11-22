@@ -539,6 +539,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -547,9 +548,14 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
