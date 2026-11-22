@@ -495,6 +495,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
@@ -540,6 +541,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
