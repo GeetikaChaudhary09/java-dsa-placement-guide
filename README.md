@@ -539,6 +539,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
