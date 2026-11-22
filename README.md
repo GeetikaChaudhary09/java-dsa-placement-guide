@@ -453,6 +453,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0226-invert-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -487,6 +488,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0226-invert-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -527,4 +529,8 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
