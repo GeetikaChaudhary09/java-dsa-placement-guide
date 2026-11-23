@@ -500,6 +500,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1991-find-the-middle-index-in-array) |
@@ -514,6 +515,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
+| [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -632,7 +634,12 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/2574-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
