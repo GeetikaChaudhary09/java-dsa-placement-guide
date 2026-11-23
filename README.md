@@ -502,6 +502,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -631,4 +632,5 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
