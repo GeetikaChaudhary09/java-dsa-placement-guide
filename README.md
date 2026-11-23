@@ -605,6 +605,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
@@ -647,4 +648,5 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
