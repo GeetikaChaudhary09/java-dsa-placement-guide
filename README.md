@@ -501,6 +501,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1991-find-the-middle-index-in-array) |
@@ -516,6 +517,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -560,6 +562,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0231-power-of-two](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -635,6 +638,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/2574-left-and-right-sum-differences) |
@@ -642,4 +646,5 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
