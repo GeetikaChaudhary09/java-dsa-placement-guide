@@ -505,6 +505,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0485-max-consecutive-ones](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
@@ -670,4 +671,12 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [1248-count-number-of-nice-subarrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
