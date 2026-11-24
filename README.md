@@ -501,6 +501,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0724-find-pivot-index) |
@@ -521,6 +522,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0904-fruit-into-baskets) |
@@ -559,6 +561,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0713-subarray-product-less-than-k) |
@@ -632,6 +635,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0141-linked-list-cycle](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -644,6 +648,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
