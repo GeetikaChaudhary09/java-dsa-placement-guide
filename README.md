@@ -495,6 +495,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -674,9 +675,11 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
