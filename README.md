@@ -452,6 +452,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0199-binary-tree-right-side-view](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
@@ -470,6 +471,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0199-binary-tree-right-side-view](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -490,6 +492,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0199-binary-tree-right-side-view](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
@@ -551,10 +554,12 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -567,6 +572,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0349-intersection-of-two-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0701-insert-into-a-binary-search-tree) |
