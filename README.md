@@ -596,6 +596,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -631,6 +632,7 @@ This repository is a pattern-wise question guide intended to help students prepa
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0409-longest-palindrome) |
@@ -696,4 +698,12 @@ This repository is a pattern-wise question guide intended to help students prepa
 | ------- |
 | [0054-spiral-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0867-transpose-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/GeetikaChaudhary09/java-dsa-placement-guide/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
